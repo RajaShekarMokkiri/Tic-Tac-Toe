@@ -1,0 +1,161 @@
+*{
+    margin:0px;
+    padding:0px;
+    background-color: #4e807c;
+}
+
+.heading{
+    height:60px;
+    text-align: center;
+    font-size:34px;
+    font-weight: bold;
+    position: relative;
+    top:10px;
+    color:black;
+    text-decoration: 2px solid underline;
+}
+
+.playerTurn{
+    height:90px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.start{
+    height:60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
+    background-color: green;
+    color:white;
+    cursor: pointer;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+
+
+.mainBox{
+    height:300px;
+    margin:50px;
+}
+
+
+.horizontalBox1{
+    height:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+
+.box1Box1{
+    height:80px;
+    width:80px;
+    background-color: red;
+    border-radius: 10px;
+    background-color: #ffffb3;
+}
+.box2Box1{
+    height:80px;
+    width:80px;
+    background-color: red;
+    border-radius: 10px;
+    background-color: #ffffb3;
+}
+.box3Box1{
+    height:80px;
+    width:80px;
+    background-color: red;
+    border-radius: 10px;
+    background-color: #ffffb3;
+}
+
+
+.horizontalBox2{
+    height:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+
+.box1Box2{
+    height:80px;
+    width:80px;
+    background-color: red;
+    border-radius: 10px;
+    background-color: #ffffb3;
+}
+.box2Box2{
+    height:80px;
+    width:80px;
+    background-color: red;
+    border-radius: 10px;
+    background-color: #ffffb3;
+}
+.box3Box2{
+    height:80px;
+    width:80px;
+    background-color: red;
+    border-radius: 10px;
+    background-color: #ffffb3;
+}
+
+
+
+.horizontalBox3{
+    height:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+
+.box1Box3{
+    height:80px;
+    width:80px;
+    background-color: red;
+    border-radius: 10px;
+    background-color: #ffffb3;
+}
+.box2Box3{
+    height:80px;
+    width:80px;
+    background-color: red;
+    border-radius: 10px;
+    background-color: #ffffb3;
+}
+.box3Box3{
+    height:80px;
+    width:80px;
+    background-color: red;
+    border-radius: 10px;
+    background-color: #ffffb3;
+}
+
+.border:hover{
+    cursor: pointer;
+    box-shadow:4px 4px 10px 0px rgba(0,0,0,0.3);
+}
+
+
+.button{
+    height:60px;
+    text-align: center;
+}
+
+.button button{
+    height:40px;
+    width:100px;
+    color:white;
+    background-color: black;
+    border-radius: 10px;
+    cursor:pointer;
+
+}
