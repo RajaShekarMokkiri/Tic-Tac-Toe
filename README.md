@@ -26,5 +26,35 @@ A simple and interactive Tic-Tac-Toe game built using pure **HTML**, **CSS**, an
 ---
 
 ## 📂 File Structure
+tic-tac-toe/
+├── index.html # HTML structure
+├── style.css # Styling for layout and colors
+└── script.js # Game logic and interactivity
+
+---
+
+## 💡 How to Play
+
+1. Click on **"Start"** to begin the game.
+2. Player 1 uses **X**, Player 2 uses **O**.
+3. Click on a box to mark your turn.
+4. First to complete a row, column, or diagonal wins!
+5. Click **"Reset Game"** to play again.
+
+---
+
+## ▶️ How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RajaShekarMokkiri/Tic-Tac-Toe.git
+2. Open the folder:
+cd Tic-Tac-Toe
+
+3.Open index.html in your browser:
+Double-click it, or
+Right-click → Open with → Choose browser
+
+
 
 
